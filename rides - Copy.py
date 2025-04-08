@@ -1,5 +1,5 @@
-# Created By: Prathik Veeramachaneni
-# Created Date: 12/03/2024
+# Created By: [MY NAME WAS HERE]
+# Created Date: 12/03/24
 # version = '2.0'
 #-------------------------------------------------------------------------------------------------------------
 """This is a system is a module of main.py. It allows the user to select a ride to ride. """
