@@ -1,5 +1,5 @@
-# Created By: Prathik Veeramachaneni
-# Created Date: 12/03/2024
+# Created By: [MY NAME WAS HERE]
+# Created Date: 12/03/24
 # version = '1.0'
 #-------------------------------------------------------------------------------------------------------------
 """Allows user to buy items from the Theme Park shop, can be accessed from main menu."""
