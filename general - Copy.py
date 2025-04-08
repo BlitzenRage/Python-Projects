@@ -1,4 +1,5 @@
-
+# Created By: [MY NAME WAS HERE]
+# Date: 12/03/24
 # version = '1.0'
 #-------------------------------------------------------------------------------------------------------------
 """Details about the module and for what purpose it was built for."""
